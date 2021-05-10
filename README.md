@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Naveen Sai
 
 🔭 I’m currently a sophomore at [IIT Mandi](https://www.iitmandi.ac.in), pursuing my B.Tech in Computer Science.<br>
-🌱 I’m currently working on a Chatbot project!<br>
+🌱 I’m currently working on [Ponder](https://www.github.com/naveensaigit/Ponder-Frontend)!<br>
 ⚡ My Interests : Competitive Programming (C++), Machine Learning, Deep Learning, Web Development.<br>
 
 ### Languages and Frameworks
